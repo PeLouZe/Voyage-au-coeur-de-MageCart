@@ -18,7 +18,7 @@ Mais ils ont tous un objectif commun : amasser le plus de numéros de cartes de 
 -Fitness Depot qui se sont fait poursuivre en justice pour avoir tenté de cacher un tel cas.
 
 #### Comment se protéger
-Sur ce sujet, je ne peux pas insister assez que tous les commerçants doivent faire leurs mises-a-jours fournies par les fabricants de leur plateformes (Magento, Wordpress, Shopify et toutes les autres). Ceux qui ne font pas leurs mises-a-jours seront tôt ou tard ciblés par ce type d'attaque... C'est trop facile! Après un certain temps a ne pas avoir fait de mises-a-jour la question n'est pas de savoir si ça arrivera, mais plutôt "quand?". Évidemment, toutes les autres mesures d'hygiènes de Cybersécurité sont de mises aussi (avoir un antivirus, changer son mot de passe et en avoir un complexe etc.)
+Sur ce sujet, je ne peux pas insister assez que tous les commerçants doivent faire leurs mises-a-jours fournies par les fabricants de leur plateformes (Magento, Wordpress, Shopify et toutes les autres). Ceux qui ne font pas leurs mises-a-jours seront tôt ou tard ciblés par ce type d'attaque... C'est trop facile! Après un certain temps a ne pas avoir fait de mises-a-jour la question n'est pas de savoir si ça arrivera, mais plutôt "quand?". Évidemment, toutes les autres mesures d'hygiènes de Cybersécurité sont de mises aussi (avoir un antivirus, changer son mot de passe et en avoir un complexe et toute la ritournelle habituelle)
 
 #### Pourquoi c'est autant intéressant ? La chasse est ouverte!
 Ce qui rend la chose si intéressante n'est pas le fait qu'ils tentent de voler des numéros de cartes..... même si c'est vraiment un fléeau!!!
