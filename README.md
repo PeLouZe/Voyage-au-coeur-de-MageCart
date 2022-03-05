@@ -63,7 +63,7 @@ Le code utilise des petites parties de son propre code pour se désobfusquer, ce
 
 A voir ces informations, on peut donc déduire qu'il utilise l'information remplie sur un formulaire de la page et qui la soumets sous forme de Requête POST en lettres minuscules lorsque le client clique sur la souris (donc avant de le soumettre au vrai marchant)!!!
 
-Auttre fait intéressant, ce script n'est toujours pas détecté par la plupart des antivirus sur le marché, ni le site vers lequel il est envoyé!
+Autre fait intéressant, ce script n'est toujours pas détecté par la plupart des antivirus sur le marché, ni le site vers lequel il est envoyé!
 
 
 De plus le certificat "Let's Encrypt' du site malicieux a été émis le 1er Février 2022,
