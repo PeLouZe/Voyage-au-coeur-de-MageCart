@@ -5,7 +5,7 @@ Cette semaine je suis tombé sur une compagnie de Québec qui avait malheureusem
 Le commerçant n'était pas au courant de l'attaque lorsque je leur ai divulgué et on prit action en moins de 24h pour enlever ce code.
 
 # Mage-Quoi ? Magento ? MageCart ? Kossé ça ?
-Pour ceux qui s'intéresse un peu a la sécurité informatique, vous savez que MageCart est une expression qui est utilisée parce que c'est groupe de hackers visent particulièrement la plateforme MAGEnto construite par Adobe. Cart vient du fait que c'est ceux qui ont une fonction 'Panier' sur le site web qui sont ciblés.
+Pour ceux qui s'intéressent un peu a la sécurité informatique, vous savez que MageCart est une expression qui est utilisée parce que c'est groupe de hackers visent particulièrement la plateforme MAGEnto construite par Adobe. Cart vient du fait que c'est ceux qui ont une fonction 'Panier' sur le site web qui sont ciblés.
 Au même titre que quelqu'un pourrait pirater une machine de paiement dans un centre d'achat, les pirates le font directement sur le site web du marchant, a son insu et n'ont même pas besoin de se déplacer.
 Plusieurs groupes de 'MageCart' différents existent, qui ont tous des tactiques différentes et des infrastructures de contrôle propres a eux.
 Mais ils ont tous un objectif commun : amasser le plus de numéros de cartes de crédit possible afin de les frauder. Ce sont littéralement des 'Card Skimmers'.
