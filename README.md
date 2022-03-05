@@ -75,7 +75,11 @@ Le nom de domaine a été mis-a-jour le 1er Mars dernier.
 Le site est aussi hébergé loin loin du Québec..., il n'y a aucune raison que le commerçant fasse affaire dans cette partie du monde.
 
 
-En espérant que ça change bientôt et que vous avez aimé mon blog!
 
+
+
+
+En espérant que ça change bientôt et que vous avez aimé mon blog!
+-pll25
 🔥🔥🔥
 
