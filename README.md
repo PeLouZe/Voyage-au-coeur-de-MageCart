@@ -64,7 +64,12 @@ Le code utilise des petites parties de son propre code pour se désobfusquer, ce
 A voir ces informations, on peut donc déduire qu'il utilise l'information remplie sur un formulaire de la page et qui la soumets sous forme de Requête POST en lettres minuscules lorsque le client clique sur la souris (donc avant de le soumettre au vrai marchant)!!!
 
 Auttre fait intéressant, ce script n'est toujours pas détecté par la plupart des antivirus sur le marché, ni le site vers lequel il est envoyé!
-De plus le certificat "Let's Encrypt' du site malicieux a été émis le 1er Février 2022, le site est aussi hébergé loin loin du Québec...
+
+
+De plus le certificat "Let's Encrypt' du site malicieux a été émis le 1er Février 2022, 
+Le Domaine est protégé par un PrivacyService (on ne sait pas qui est le propriétaire), 
+Le nom de domaine a été mis-a-jour le 1er Mars dernier.
+Le site est aussi hébergé loin loin du Québec..., il n'y a aucune raison que le commerçant fasse affaire dans cette partie du monde.
 
 
 En espérant que ça change bientôt et que vous avez aimé mon blog!
